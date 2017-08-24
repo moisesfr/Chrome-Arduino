@@ -1,4 +1,4 @@
-#define LED_PIN 19
+#define LED_PIN 10
 
 void setup()
 {
